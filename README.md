@@ -14,4 +14,4 @@
   Thread 2 :ijkl \
   Thread 0 :mabc \
   Thread 1 :defg \
-  Thread 2 :hijk \
+  Thread 2 :hijk
